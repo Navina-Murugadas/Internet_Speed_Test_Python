@@ -1,4 +1,4 @@
-# Internet Speed Test using Python
+# INTERNET SPEED TESTER USING PYTHON
   Internet Speed Tester is an application that measures internet quality or speed for the connected device. It is used by us when we face any internet issue or when we want to check the bandwidth of the internet.  We will be using the speedtest module to find out the internet speed. Here, we measure the following speeds:
 1. Download Speed
 2. Upload Speed
